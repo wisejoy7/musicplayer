@@ -7,3 +7,4 @@ You should have received a copy of the GNU General Public License along with thi
 App can be downloaded at : https://play.google.com/store/apps/details?id=com.musiqueplayer.playlistequalizerandroidwear
 
 Sleep timer and UI is provided. All images used in app are from pixabay.com.
+I would like to credit open source Timber Music Player for inspiring this app : https://github.com/naman14/Timber
