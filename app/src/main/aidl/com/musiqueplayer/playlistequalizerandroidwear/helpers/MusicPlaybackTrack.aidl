@@ -1,0 +1,3 @@
+package com.musiqueplayer.playlistequalizerandroidwear.helpers;
+
+parcelable MusicPlaybackTrack;
